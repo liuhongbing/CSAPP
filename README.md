@@ -1,4 +1,4 @@
-CSAP
+CSAPP
 ====
 
- Computer Systems: A Programmer's Perspective
+ Computer Systems: A Programmer's Perspective Exercise
